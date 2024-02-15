@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahd Atef</h1>
 <h3 align="center">A frontend developer from Egypt</h3>
-<img align="right" src="https://avatars.githubusercontent.com/u/90793726?s=400&u=87d948c3e43a0aeddcebbf7034d0fbb6097ba467&v=4">
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
