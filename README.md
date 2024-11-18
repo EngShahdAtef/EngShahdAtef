@@ -36,8 +36,8 @@ I am a software engineer with expertise in web development, and I have a strong 
 
 <!--------------------------------------- Graphs --------------------------------------->
 <hr>
-<p>
-  <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-maher77&show_icons=true&locale=en&layout=compact" alt="ahmed-maher77" />
+<p align="center">
+  <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-maher77&show_icons=true&locale=en&layout=compact" alt="shahd" />
 </p>
 
 <!--
