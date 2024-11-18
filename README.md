@@ -18,7 +18,7 @@ I am a software engineer with expertise in web development, and I have a strong 
 <!--------------------------------------- Tech Skills --------------------------------------->
 <h1 align="left">✅ Technical Skills:</h1>
 <!--------------------------------------- GIF --------------------------------------->
-<img align="right" alt="coding gif" width="400" src="https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif">
+<img align="right" alt="coding gif" width="400" src="https://tenor.com/view/monkey-developer-software-coding-debug-gif-15160023">
 <br/>
 <h3>𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:</h3>
 
