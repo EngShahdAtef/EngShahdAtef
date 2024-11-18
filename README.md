@@ -66,10 +66,6 @@ I am a software engineer with expertise in web development, and I have a strong 
 
 
 
-<a href="https://twitter.com/AhmedMa77068093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedma77068093" height="20" width="20" /></a> &nbsp;
-<a href="https://web.facebook.com/profile.php?id=100012154268952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100012154268952" height="20" width="20" /></a> 
-</p>
-
 
 
 
