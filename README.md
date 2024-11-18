@@ -1,6 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<img height="180em" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif">
 <p>
   <h1 align="center">Hi, I'm Shahd 👋</h1>
 <p align="center">
