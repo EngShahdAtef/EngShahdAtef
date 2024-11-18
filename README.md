@@ -18,7 +18,7 @@ I am a software engineer with expertise in web development, and I have a strong 
 <!--------------------------------------- Tech Skills --------------------------------------->
 <h1 align="left">✅ Technical Skills:</h1>
 <!--------------------------------------- GIF --------------------------------------->
-<img align="right" alt="coding gif" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWV4Nmh4Y2RhemNpdTFjYzBqc2VocW1ucm4waGRic2Nta3E1ZW1zdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif">
+<img align="right" alt="coding gif" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDg1MHA5N3AxMjVxaTNybHpwaTE0Mjh0ZHMyZHpzbTU3N2R4bm04eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif">
 
 
 <br/>
