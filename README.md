@@ -6,8 +6,8 @@
 <!--------------------------------------- Contact --------------------------------------->
 
 📫 How to reach me: 
-  - **Gmail**<!--<a href="mailto: ahmedmaher.dev1@gmail.com" title="Go to Gmail" target="_blank"><img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/cc8ca688-6813-4560-bb86-7511be08d50d" width="30" height="30"></a>-->:  shahd.atef.dev@gmail.com
-  - **LInkedIn**<!--<a href="https://www.linkedin.com/in/ahmed-maher-algohary/" title="Go to LinkedIn" target="_blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ahmed-maher-algohary" height="15" width="15" /></a>-->:  www.linkedin.com/in/eng-shahdatef
+  - **Gmail**:  shahd.atef.dev@gmail.com
+  - **LInkedIn**:  www.linkedin.com/in/eng-shahdatef
 
 
 <!--------------------------------------- Bio --------------------------------------->
