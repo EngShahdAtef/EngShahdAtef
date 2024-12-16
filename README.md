@@ -24,14 +24,14 @@ I am a software engineer with expertise in web development, and I have a strong 
 <br/>
 <h3>𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:</h3>
 
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/0758fc66-c2a0-42a6-8ffc-8d6eec8ce486" alt="html5" width="15" height="15"/>-->HTML/HTML5 
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/6d7f127b-1250-4770-bd07-0f8417c734c7" alt="css3" width="15" height="15"/> -->CSS/CSS3
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/99b589c1-3d83-4e62-b828-d27011412fe8" alt="bootstrap" width="15" height="15"/> -->Tailwind
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/9d1b4d6d-9f18-47b2-b9cb-2fcd1c0a5445" alt="responsive design" width="15" height="15"/> -->Responsive Design
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/9ad7b336-0ffe-46e1-b567-d7cc11e6d0fd" alt="javascript" width="15" height="15"/> -->JavaScript
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/5cfd8954-6681-45e9-8b12-5df8e1b02736" alt="ecmascript" width="15" height="15"/> -->ECMAScript (ES6+)
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/15f2cd8e-d702-41db-be62-94b773134e52" alt="typescript" width="15" height="15"/> -->TypeScript
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/018ee73c-2ea3-4256-92f5-f1f6ffee8d5d" alt="react.js" width="15" height="15"/> -->React.js
+- HTML/HTML5 
+- CSS/CSS3
+- Tailwind
+- Responsive Design
+- JavaScript
+- ECMAScript (ES6+)
+- TypeScript
+- React.js
 
 
 <!--------------------------------------- Graphs --------------------------------------->
@@ -40,14 +40,6 @@ I am a software engineer with expertise in web development, and I have a strong 
   <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-maher77&show_icons=true&locale=en&layout=compact" alt="shahd" />
 </p>
 
-<!--
-<p>
-  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=ahmed-maher77&show_icons=true&locale=en" alt="ahmed-maher77" />
-</p>
-<p>
-  <img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-maher77&" alt="ahmed-maher77" />
-</p>
--->
 <!--------------------------------------- Brief --------------------------------------->
 
 
